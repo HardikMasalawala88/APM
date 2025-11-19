@@ -1,6 +1,0 @@
-@APM.Api_HostAddress = http://localhost:5291
-
-GET {{APM.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
